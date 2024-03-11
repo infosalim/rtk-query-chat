@@ -17,6 +17,12 @@
       "password": "$2a$10$I8IJ3gG2iK7yTv6BewpUi.HhGXJUCOk5vA0F.EiGUIurBVWoOM516",
       "name": "alshdfjks",
       "id": 3
+    },
+    {
+      "email": "milas@gmail.com",
+      "password": "$2a$10$HrEW2Hwn6CUL7oFQQS.63OzGzu9OYVcO00TvruoXA7PKlbfcw6YY2",
+      "name": "Milas",
+      "id": 4
     }
   ],
   "conversations": [
