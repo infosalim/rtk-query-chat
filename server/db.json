@@ -5,6 +5,18 @@
       "password": "$2a$10$Cjr/HvZpAOLR573P5awOHe9M4RPpjnS4L0maguiA8Xb5uu0SE9Tki",
       "name": "Salim Hossain",
       "id": 1
+    },
+    {
+      "email": "salimh@gmail.com",
+      "password": "$2a$10$2ykDfDq0SSa0phxS9S07gekhyPCI.yimuYYIw7z7jnAd6aW63zhXe",
+      "name": "Milas",
+      "id": 2
+    },
+    {
+      "email": "kasdkf@gmail.com",
+      "password": "$2a$10$I8IJ3gG2iK7yTv6BewpUi.HhGXJUCOk5vA0F.EiGUIurBVWoOM516",
+      "name": "alshdfjks",
+      "id": 3
     }
   ],
   "conversations": [
